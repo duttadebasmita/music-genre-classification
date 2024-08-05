@@ -1,0 +1,1 @@
+trained on 6 classes can be trtaimned for more classes deepending on coimnpoute resources for a wide range of genre classification
